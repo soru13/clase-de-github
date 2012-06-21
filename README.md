@@ -1,21 +1,5 @@
 clase-de-github
 ===============
-Configuración global:
- Configurar git
-  git config - user.name mundial "Tu Nombre"
-  git config - global user.email jesus_ed13@hotmail.com
-      
-Próximos pasos:
-  mkdir kiosko
-  cd kiosko
-  git init
-  touch README
-  git add README
-  git-commit primer "commit-m
-  git https://github.com/soru13/kiosko.git remoto origen de complemento
-  git push origin master-u
-
-
 
 ejemplo de github como funciona
 
@@ -23,7 +7,8 @@ Este es un ejemplo de Github para la comunidad de #mejorandola
 
 Una vez instalas GIT, debes configurarlo:
 
-git config --global user.name "Christian" git config --global user.email "xxxxxx@xxxx.com"
+git config --global user.name "Christian" 
+git config --global user.email "xxxxxx@xxxx.com"
 
 Generando tu Public Key:
 

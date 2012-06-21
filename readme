@@ -1,7 +1,7 @@
 Configuración global:
  Configurar git
-  git config - user.name mundial "Tu Nombre"
-  git config - global user.email jesus_ed13@hotmail.com
+git config --global user.name "Christian" 
+git config --global user.email "xxxxxx@xxxx.com"
       
 Próximos pasos:
   mkdir kiosko
