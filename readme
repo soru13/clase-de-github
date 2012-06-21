@@ -9,6 +9,10 @@ Próximos pasos:
   git init
   touch README
   git add README
-  git-commit primer "commit-m
-  git https://github.com/soru13/kiosko.git remoto origen de complemento
-  git push origin master-u
+  git-commit -m "primer commit"
+  git remote add origin master https://github.com/soru13/kiosko. //conecto con github
+  git push origin master//envio todo a github
+  git pull origin master//me traigo todo de github
+
+  //para clonar repositorios o lonarlos o bajarlos a mi pc
+  git clone "url"//descargo todo o clono 
